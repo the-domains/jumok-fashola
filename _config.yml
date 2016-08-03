@@ -1,4 +1,3 @@
-layout_spectrum: 0.1294879773631692
 typography_spectrum: 0.6562597912270576
 color:
   brandStrength: 0.22311796061694622
@@ -11,5 +10,7 @@ color:
     - '#9C2816'
     - '#FF8A3A'
     - '#FFF3D2'
+layout_spectrum: 0.1294879773631692
 name: Jumoké Fashola
 title: Jumoké fashola
+description: Broadcaster // Vocalist // Host
